@@ -87,7 +87,7 @@ public class DumpCommand extends ArgsOnlyCommand {
     }
 
     public DumpCommand() {
-        super(1, 1);
+        super(1, 4);
     }
 
     @Override
